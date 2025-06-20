@@ -24,7 +24,10 @@ run test.py
 run CEE.py for cross-entropy loss
 
 ## Prepare the dataset
-run divide.py for prepare dataset.
+
+run divide.py for prepare dataset
+run prepare.py for choosing template
+
 !the folder structure can be:
 
 ```
